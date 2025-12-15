@@ -1,0 +1,22 @@
+.contact-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .contact-item__name {
+    font-weight: bold;
+  }
+  
+  .contact-item_delete {
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .contact-item_delete:hover {
+    background: darkred;
+  }
+  

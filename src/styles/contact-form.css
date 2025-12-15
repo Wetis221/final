@@ -1,0 +1,21 @@
+.contact-form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-form_input {
+    flex: 1;
+    padding: 8px;
+  }
+  
+  .contact-form_button {
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .contact-form_button:hover {
+    background-color: green;
+    color: white;
+  }
+  

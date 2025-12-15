@@ -1,0 +1,11 @@
+.contact-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-list_empty {
+    text-align: center;
+    color: gray;
+  }
+
+  
